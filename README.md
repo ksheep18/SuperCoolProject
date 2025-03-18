@@ -1,6 +1,6 @@
 # SuperCoolProject
 
-<<<<<<< HEAD
+
 Guys im having second thoughts, this might not be as cool as I thought.
 
 Mark Fuller
@@ -8,7 +8,7 @@ Mark Fuller
 Wait maybe this is cooler than he knew...
 
 Kiera Shepperd
-=======
+
 Hello! Glad to see my homework repo is still being used. Maybe check out some of the other garbage I have kicking around on here?
 
 Pro tips for getting an A in Dr.Cerny's class. 
@@ -19,4 +19,5 @@ Pro tips for getting an A in Dr.Cerny's class.
     4. You dont realize it now, but java streams are king. 
   
   Do me a favor, if everyone here can tell Professor Fry congradulations on retirement, im sure she would be very greatful. 
->>>>>>> bcb747a (Update README.md)
+KieraShepperd
+
